@@ -3,7 +3,7 @@
  ## What Is The Cloud?
 
 Cloud computing is a subscription-based service where you can obtain networked storage space and
-computer resources.
+computer resources. Cloud computing, in its most basic definition, is the supply of computer services via the Internet (or "the cloud"), including servers, storage, databases, networking, software, analytics, and intelligence. This enables speedier innovation, adaptable resource allocation, and cost savings
 
 ### Real-World Example of Cloud Computing
 One way to think of cloud computing is to consider your experience with
