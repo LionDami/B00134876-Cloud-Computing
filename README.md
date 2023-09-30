@@ -6,7 +6,7 @@ Cloud computing is a subscription-based service where you can obtain networked s
 computer resources. Cloud computing, in its most basic definition, is the supply of computer services via the Internet (or "the cloud"), including servers, storage, databases, networking, software, analytics, and intelligence. This enables speedier innovation, adaptable resource allocation, and cost savings
 
 ### Real-World Example of Cloud Computing
-One way to think of cloud computing is to consider your experience with
+`One way to think of cloud computing is to consider your experience with
 email. Your email client, if it is Yahoo!, Gmail, Hotmail, and so on, takes care of housing all of
 the hardware and software necessary to support your personal email account. When you want to
 access your email you open your web browser, go to the email client, and log in. The most
@@ -18,4 +18,5 @@ computer, such as a word processing program. When you create a document using wo
 processing software, that document stays on the device you used to make it unless you physically
 move it. An email client is similar to how cloud computing works. Except instead of accessing
 just your email, you can choose what information you have access to within the cloud.
+`
 
