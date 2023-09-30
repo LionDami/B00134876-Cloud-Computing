@@ -29,7 +29,12 @@ access to just that group.
 - **3. Community Cloud** - A community cloud is shared among two or more organizations that
 have similar cloud requirements.
 - **4. Hybrid Cloud** - A hybrid cloud is essentially a combination of at least two clouds, where the
-clouds included are a mixture of public, private, or community. 
+clouds included are a mixture of public, private, or community.
+
+## Cloud Computing Architecture
+![image](https://github.com/LionDami/B00134876-Cloud-Computing/assets/145494245/dccf84df-2113-4b45-8f12-cfbdf53d14d4)
+
+
 
 
 
